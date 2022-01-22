@@ -45,8 +45,8 @@ class GitList extends React.Component {
       });
   };
 
-  init() {
-    this.props.navigation.setOptions({
+  init = async () => {
+    await this.props.navigation.setOptions({
       header: props => (
         <CustomNavigationBar {...props} ticker={this.state.ticker} />
       ),
