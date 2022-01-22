@@ -7,7 +7,7 @@ A demo application
 - Run `npx react-native run-ios —simulator="iPhone 13"` to launch app on simulator
 - Run `npx react-native run-ios —simulator="iPhone 13" --configuration Release ` to launch production mode
 
-## Running on Unit Tests
+## Running Unit Tests
 - Run `npm test`
 
 ## Results of Unit Tests
