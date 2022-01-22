@@ -11,17 +11,15 @@ A demo application
 - Run `npm test`
 
 ## Results of Unit Tests
-> gmproject@0.0.1 test
-> jest
 
- PASS  __tests__/get-commit-list-api-test.js
- PASS  __tests__/render-commit-list-test.js
+-  PASS  __tests__/get-commit-list-api-test.js
+-  PASS  __tests__/render-commit-list-test.js
 
-Test Suites: 2 passed, 2 total
-Tests:       2 passed, 2 total
-Snapshots:   1 passed, 1 total
-Time:        3.316 s
-Ran all test suites.
+- Test Suites: 2 passed, 2 total
+- Tests:       2 passed, 2 total
+- Snapshots:   1 passed, 1 total
+- Time:        3.316 s
+- Ran all test suites.
 
 ## Screen Shots of Results
 
